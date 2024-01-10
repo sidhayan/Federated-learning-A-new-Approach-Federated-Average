@@ -78,6 +78,6 @@ Aggregation: The code aggregates model updates using federated averaging to crea
 
 Retrieval of Aggregated Model: The final aggregated model is retrieved using the .get() method.
 
-##Conclusion
+## Conclusion
 Federated Learning using PySyft offers a way to train models across decentralized datasets while maintaining data privacy. This example showcases a simplified version of federated learning, which can be expanded upon for more complex scenarios.
 
